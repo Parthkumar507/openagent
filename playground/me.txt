@@ -1,0 +1,5 @@
+{{#user}}
+My name is Parth Kumar.
+Here are my skills : Html, Css ,Js , Node.js , React.js , Data Structure, ML. 
+My email id is parthkumar281202@gmail.com.
+ {{/user}}
